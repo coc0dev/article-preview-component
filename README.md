@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/articlepreviewcomponent-B9wdahpsTz)
+- Live Site URL: [Netlify](https://sprightly-pixie-8fa267.netlify.app/)
 
 ## My process
 

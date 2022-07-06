@@ -21,7 +21,7 @@ body {
     height: 280px;
     width: 280px;
     border-radius: 10px 0 0 10px;
-    box-shadow: 5px 10px 10px rgba(110, 105, 105, 0.5);
+    box-shadow: 5px 10px 10px rgba(177, 177, 177, 0.5);
 }
 
 .box {
@@ -30,7 +30,7 @@ body {
     background-color: white;
     border-radius: 0 10px 10px 0;
     padding: 35px;
-    box-shadow: 5px 10px 10px rgba(110, 105, 105, 0.5);
+    box-shadow: 5px 10px 10px rgba(177, 177, 177, 0.5);
 }
 
 .box h1 {
